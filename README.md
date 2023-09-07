@@ -1,4 +1,4 @@
-# Hypermarket-Database-Management-System
+# Hypermarket Database Management System
 
 The primary objective of this project was to design and implement a Database Management System (DBMS) for helping international students in Boston to accustomed to the city's purchasing practices. Our database can help students manage everything related to buying the best product according to their needs without disturbing their daily chores and studies.
 
