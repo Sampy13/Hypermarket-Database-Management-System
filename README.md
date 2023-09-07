@@ -6,7 +6,7 @@ The database was modelled considering the problems faced by international studen
 
 The project also includes implementation on Python software. We connected our database to Python using MySQL Connector to work on some real-life analytics by generating some visualizations to understand the trend of our data. The future scope of this project would be to consider various other problems faced by international students so that we can expand the horizon of this project as well as submit our findings and implementations to the university so that they can help the students overcome these.
 
-## I. Introduction
+## Introduction
 
 In the past few years, the number of international students traveling to the United States of America to pursue their higher education has increased sharply. The cultural diversity, vibrant lifestyle, and flexible education system makes the USA the topmost preferred destination for international students. According to a study abroad report, it is estimated that around 1,075,496 international students are enrolled in various universities spread across the country. Boston has traditionally been a desirable location for aspirational students because of its rich academic history. Students encounter a variety of challenges as they adjust to this new environment over the course of several months. International students may not be aware of many of those challenges, even if some may be clear. To be completely competitive in the United States, international students must overcome several significant obstacles, one of which is becoming accustomed to the country's purchasing practices.
 
